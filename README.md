@@ -11,7 +11,6 @@
 
 - java
 - maven
-- spring-boot
 - starter
 - template
 
