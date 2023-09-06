@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/softspiders/softspiders">
-      <img src="https://avatars.githubusercontent.com/u/47006425?v=4"width="100" height="100"/>
+      <img src="https://avatars.githubusercontent.com/u/47006425?v=4" width="100" height="100"/>
     </a>
 </div> 
 
@@ -9,8 +9,9 @@
 
 ## Feature tags
 
-- maven
 - java
+- maven
+- spring-boot
 - starter
 - template
 
@@ -35,13 +36,19 @@
 
 ---
 
+## Build
+
+```sh
+mvnw clean package
+```
+
 ## Run
 
 ```sh
-mvnw spring-boot:run
+java -cp target/hello-world-1.0-SNAPSHOT.jar com.example.App
 ```
 
-Take a look at http://localhost:8080/hello.
+Wathc 'Hello World!' in the console.
 
 ### License
 
