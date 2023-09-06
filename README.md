@@ -47,7 +47,7 @@ mvnw clean package
 java -cp target/hello-world-1.0-SNAPSHOT.jar com.example.App
 ```
 
-Wathc 'Hello World!' in the console.
+Watch 'Hello World!' in the console.
 
 ### License
 
