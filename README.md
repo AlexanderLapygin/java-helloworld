@@ -19,6 +19,7 @@
 - [+ log4j](https://github.com/AlexanderLapygin/log4j-starter#readme)
 - [+ logback](https://github.com/AlexanderLapygin/logback-starter/tree/main#readme)
 - [+ spring-boot](https://github.com/AlexanderLapygin/spring-boot-helloworld/tree/main#readme)
+- [+ war](https://github.com/AlexanderLapygin/war-hello-world/tree/main#readme)
 
 ---
 
